@@ -24,4 +24,5 @@
     <feature name="StatusBar">
       <param name="ios-package" value="CDVStatusBar" onload="true" />
     </feature>
+    <engine name="android" spec="6.2.1" />
 </widget>
